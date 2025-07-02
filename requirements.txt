@@ -1,0 +1,12 @@
+streamlit
+euriai
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+scikit-image
+scikit-learn
+scikit-learn-extra
